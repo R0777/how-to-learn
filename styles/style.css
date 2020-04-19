@@ -303,7 +303,7 @@
 
 }
 
-.footer__columns_content_copyright {
+.footer__column_content_copyright {
   flex-direction: column;
   flex-basis: 711px;
 }
@@ -316,12 +316,12 @@
   font-weight: normal
 }
 
-.footer__columns_content_info {
+.footer__column_content_info {
 display: block;
 width: fit-content;
 }
 
-.footer__columns_content_social {
+.footer__column_content_social {
 display: block;
 width: fit-content
 }

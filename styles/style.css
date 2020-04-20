@@ -299,8 +299,13 @@
   display: flex;
   width: 90%;
   justify-content: space-between;
-  color: #fff;
 
+}
+
+.footer__column {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
 }
 
 .footer__column_content_copyright {

@@ -1,0 +1,8 @@
+.footer__social-icon_vk {
+    background-image: url('../../../../images/svg/vk_color_white.svg');
+  
+  }
+  
+  .footer__column-link:hover > .footer__social-icon_vk {
+    background-image: url('../../../../images/svg/vk_color_blue.svg');
+  }

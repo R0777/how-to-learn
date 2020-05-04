@@ -1,0 +1,8 @@
+.footer__social-icon_facebook {
+    background-image: url('../../../../images/svg/facebook_color_white.svg');
+  
+  }
+
+  .footer__column-link:hover > .footer__social-icon_facebook {
+    background-image: url('../../../../images/svg/facebook_color_blue.svg');
+  }

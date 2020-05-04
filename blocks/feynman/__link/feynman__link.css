@@ -1,0 +1,28 @@
+.feynman__link {
+    position: absolute;
+    top: 50%;
+    right: 48px;
+    line-height: 51px;
+    font-size: 36px;
+    margin: 0;
+    font-weight: normal;
+    color: #000;
+    text-decoration: none;
+    opacity: 1;
+    transition: opacity 2s ease-out;
+  }
+
+  .feynman__link:hover {
+    color: #2f80ed;
+    opacity: .3;
+    transition: opacity 2s ease-out;
+  }
+  
+  .feynman__link::after {
+    content: ' \2192';
+    cursor: pointer;
+  }
+  
+  .feynman__link::after:hover {
+    color: #2f80ed;
+  }

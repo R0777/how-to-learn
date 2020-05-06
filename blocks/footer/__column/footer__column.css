@@ -1,8 +1,7 @@
 @import url(./_content_copyright/footer__column_content_copyright.css);
 
-
 .footer__column {
-    display: flex;
-    justify-content: space-between;
-    color: #fff;
-  }
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}

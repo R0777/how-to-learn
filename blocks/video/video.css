@@ -2,8 +2,8 @@
 @import url(./__iframe/video__iframe.css);
 
 .video {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
 }

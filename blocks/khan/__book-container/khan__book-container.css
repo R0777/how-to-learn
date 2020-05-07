@@ -2,7 +2,5 @@
 @import url(./__buy-link/khan__buy-link.css);
 
 .khan__book-container {
-  display: flex;
-  flex-direction: row;
   padding-top: 68px;
 }
